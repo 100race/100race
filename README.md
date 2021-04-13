@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <br><br>
 <h2 align="center"> :ocean: Everything counts :ocean: </h2>
-<h5 align="center"> still learning :zap: </>
+<h5 align="center"> still learning :zap: </h5>
   
 <br><br><br><br>
 <h2 align="center"> :dolphin: Tech Stack :dolphin:</h2>
-<h5 align="center"> Techs that I've used at least once </>
+<h5 align="center"> Techs that I've used at least once </h5>
 
 
 <br>
